@@ -1,2 +1,1 @@
-# purdueNewsSlackBot
-The return of Tippecanews
+# tippecanews
